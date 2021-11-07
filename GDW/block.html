@@ -31,12 +31,20 @@ iv.first {
   border: 2px dotted #000;
 }
 
+#first {
+  color: #373;
+}
+
+#second {
+  color: #040;
+}
+
 </style>
 </head>
 <body>
 <h1>Block-level Elements</h1>
-<h2>Text in a Preformatted Element</h2>
-<pre>This             text
+<h2 id="first">Text in a Preformatted Element</h2>
+<pre class="first">This             text
 
         spans              several
    lines
@@ -46,7 +54,7 @@ iv.first {
 
 whitespace.</pre>
 <p>What your looking at above is my cool boi skills making the words spread apart. by using super cool and rad code ive made a the website your looking at  and the text you see above as well</p>
-<h2>Same Text in a Paragraph Element</h2>
+<h2 id="second">Same Text in a Paragraph Element</h2>
 <p>This             text
 
         spans              several
@@ -57,7 +65,7 @@ whitespace.</pre>
 
   whitespace.</p>
 <p>ok now when I p instead of pre the text just defuslts to normal instead of being special like it was before</p>
-<div>a wild animals lives in the wild with its wild aniaml friends</div>
+<div class="second">a wild animals lives in the wild with its wild aniaml friends</div>
 <p>Nothing change from how text would normally be written when i used div</p>
 
 <footer>
