@@ -2,7 +2,7 @@
 
 ## Meat
 
-### seafood      Meat         Insect       Rodent
+### seafood
 
 * Fish
 * squid 
@@ -19,3 +19,5 @@
 * krill
 * mollusks
 * eels
+
+### Meat
