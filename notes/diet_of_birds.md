@@ -2,7 +2,7 @@
 
 ## Meat
 
-### seafood     ### Meat        ### Insect      ### Rodent
+### seafood      Meat         Insect       Rodent
 
 * Fish
 * squid 
