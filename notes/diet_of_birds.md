@@ -74,6 +74,19 @@
 
 ## Plants
 
+### Plants
+
+* corn 
+* shrub
+* grass
+* flowers
+* shoot
+* root
+* plants
+* plankton
+* grasses
+* moss
+
 ### product of plant 
 
 * seeds
@@ -90,3 +103,8 @@
 * insect honey doo
 * flower nectar
 * trees sap
+
+### other tings
+
+* garbage
+* food scraps
