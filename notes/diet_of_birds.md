@@ -60,3 +60,33 @@
 * termites 
 * mosquitoes
 * large insects
+
+### dead stuff and other tings
+
+* carrion
+* carcasses
+* garbage
+* dead fish
+* dead lizards
+* blood
+* eggs
+* food scraps
+
+## Plants
+
+### product of plant 
+
+* seeds
+* leaves
+* nuts
+* grain
+* nectar
+* fruit
+* pollen
+* pinyon seeds
+* pine seeds 
+* conifers seeds
+* eucalyptus nectar
+* insect honey doo
+* flower nectar
+* trees sap
