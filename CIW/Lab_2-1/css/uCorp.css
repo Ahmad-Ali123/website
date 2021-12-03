@@ -3,3 +3,16 @@
 h1 {
   font-family: arial, helvetica, geneva, sans-serif;
 }
+body {
+  font-size: 90%;
+  font-family: arial, sans-serif;
+  border: solid  4px;
+  border-radius: 35px;
+  padding: 10px 5px 5px 10px;
+  background-color: #778899;
+}
+footer {
+  font-size: 40%;
+  border: dotted 2px;
+  border-radius: 10px;
+} 
