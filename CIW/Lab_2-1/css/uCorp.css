@@ -4,6 +4,9 @@ h1 {
   font-family: arial, helvetica, geneva, sans-serif;
 }
 body {
+  background-color: #a3c1ad;
+}
+main {
   font-size: 90%;
   font-family: arial, sans-serif;
   border: solid  4px;
@@ -12,7 +15,10 @@ body {
   background-color: #778899;
 }
 footer {
-  font-size: 40%;
+  font-size: 120%;
   border: dotted 2px;
   border-radius: 10px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #000000;
 } 
