@@ -3,20 +3,37 @@
 h1 {
   font-family: arial, helvetica, geneva, sans-serif;
 }
+nav {
+  background-color: #d8d8d8;
+  float: left;
+  height: 420px;
+}
 body {
-  background-color: #a3c1ad;
+  background-color: #353839;
 }
 main {
   font-size: 90%;
   font-family: arial, sans-serif;
-  border: solid  4px;
+  border-top: solid  4px;
+  border-left: solid 4px;
+  border-right: solid 4px;
   border-radius: 35px;
   padding: 10px 5px 5px 10px;
-  background-color: #778899;
+  background-color: #db0000;
 }
+p {
+  color: #ffffff;
+}
+#pic {
+  align: center;
+}
+.floatright {
+
+}
+
 footer {
   font-size: 120%;
-  border: dotted 2px;
+  border-top: dotted 2px;
   border-radius: 10px;
   text-align: center;
   color: #ffffff;
