@@ -3,6 +3,10 @@
 h1 {
   font-family: arial, helvetica, geneva, sans-serif;
 }
+h1 ~ p {
+  font-style: italic;
+ text-shadow: 0 3px 0 black;
+}
 nav {
   background-color: #d8d8d8;
   float: left;
