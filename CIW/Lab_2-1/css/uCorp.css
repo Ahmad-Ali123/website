@@ -8,9 +8,10 @@ h1 ~ p {
  text-shadow: 0 3px 0 black;
 }
 nav {
-  background-color: #d8d8d8;
+  border: 2px solid #6600ff;
   float: left;
   height: 420px;
+  padding: 5px;
 }
 body {
   background-color: #353839;
@@ -23,16 +24,19 @@ main {
   border-right: solid 4px;
   border-radius: 35px;
   padding: 10px 5px 5px 10px;
-  background-color: #db0000;
+  background-color: #000000;
+  background-image: url("https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-origin: border-box;
+  background-position: center;
+
+}
+img {
+  background-clip: content-box;
 }
 p {
   color: #ffffff;
-}
-#pic {
-  align: center;
-}
-.floatright {
-
 }
 
 footer {
