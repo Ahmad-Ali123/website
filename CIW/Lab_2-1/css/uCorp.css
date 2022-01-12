@@ -6,13 +6,12 @@ h1 {
   color: #ffffff;
 }
 h1 ~ p {
-  font-style: italic;
- text-shadow: 3px 3px 0 black;
+  font-style: italic;;
 }
 nav {
-  border: 2px solid #6600ff;
+  border: 2px solid #fada5e;
   float: left;
-  height: 420px;
+  height: 105px;
   padding: 5px;
 }
 body {
@@ -22,10 +21,7 @@ body {
 main {
   font-size: 90%;
   font-family: arial, sans-serif;
-  border-top: solid  4px;
-  border-left: solid 4px;
-  border-right: solid 4px;
-  border-radius: 35px;
+  border-top: solid  4px #fada5e;
   padding: 10px 5px 5px 10px;
   background-color: #000000;
   background-image: url("https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
@@ -42,6 +38,16 @@ main {
 }
 p {
   color: #ffffff;
+}
+.navlinks {
+  margin: 10px;
+  display: block;
+  border: 2px solid #fada5e;
+  padding: 2px 5px;
+  background: #bd0000;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 5px 5px 5px #888888;
 }
 
 footer {
