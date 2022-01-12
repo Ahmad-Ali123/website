@@ -1,11 +1,13 @@
 /* STYLE SHEET FOR INDEX.HTM */
 
 h1 {
-  font-family: arial, helvetica, geneva, sans-serif;
+  font-family: oregonfont;
+  src: url("../media/oregon book.ttf");
+  color: #ffffff;
 }
 h1 ~ p {
   font-style: italic;
- text-shadow: 0 3px 0 black;
+ text-shadow: 3px 3px 0 black;
 }
 nav {
   border: 2px solid #6600ff;
@@ -14,7 +16,8 @@ nav {
   padding: 5px;
 }
 body {
-  background-color: #353839;
+  background-color: #000000;
+  font-family: oregonfont;
 }
 main {
   font-size: 90%;
@@ -32,8 +35,10 @@ main {
   background-position: center;
 
 }
-img {
-  
+.floatright {
+  float: right;
+  clear: right;
+  margin: 10px;
 }
 p {
   color: #ffffff;
