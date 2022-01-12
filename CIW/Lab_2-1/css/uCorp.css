@@ -9,7 +9,7 @@ h1 ~ p {
   font-style: italic;;
 }
 nav {
-  border: 2px solid #fada5e;
+  border: 2px solid #ffffff;
   float: left;
   height: 105px;
   padding: 5px;
@@ -21,7 +21,7 @@ body {
 main {
   font-size: 90%;
   font-family: arial, sans-serif;
-  border-top: solid  4px #fada5e;
+  border-top: solid  4px #ffffff;
   padding: 10px 5px 5px 10px;
   background-color: #000000;
   background-image: url("https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
