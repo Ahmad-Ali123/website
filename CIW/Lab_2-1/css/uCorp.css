@@ -3,10 +3,7 @@
 h1 {
   font-family: oregonfont;
   src: url("../media/oregon book.ttf");
-  color: #ffffff;
-}
-h1 ~ p {
-  font-style: italic;;
+  color: #bd0000;
 }
 nav {
   border: 2px solid #ffffff;
