@@ -2,8 +2,11 @@
 
 h1 {
   font-family: 'oregonfont';
-  src: url("../media/oregon_book.ttf");
   color: #bd0000;
+}
+@font-face {
+  font-family: 'oregongont';
+  src: url(../media/oregon_book.ttf);
 }
 nav {
   border: 2px solid #ffffff;
