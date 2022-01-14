@@ -2,7 +2,7 @@
 
 h1 {
   font-family: 'oregonfont';
-  src: url("../media/oregon book.ttf");
+  src: url("../media/oregon_book.ttf");
   color: #bd0000;
 }
 nav {
@@ -13,7 +13,7 @@ nav {
 }
 body {
   background-color: #000000;
-  font-family: oregonfont;
+  font-family: 'oregonfont';
 }
 main {
   font-size: 90%;
