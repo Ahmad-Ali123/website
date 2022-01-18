@@ -1,7 +1,7 @@
 # Google trends
 
 ## Sleep trends
-![Sleep](Screen Shot 2022-01-18 at 10.05.36 AM)
+![Sleep](Screen Shot 2022-01-18)
 
 
 * The overall search for sleep pills has been going up
