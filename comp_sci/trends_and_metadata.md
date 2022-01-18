@@ -1,7 +1,7 @@
 # Google trends
 
 ## Sleep trends
-[Sleep](sleep.png)
+![Sleep](sleep.png)
 
 
 * The overall search for sleep pills has been going up
