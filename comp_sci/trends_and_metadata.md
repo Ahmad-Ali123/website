@@ -1,7 +1,7 @@
 # Google trends
 
 ## Sleep trends
-![Sleep](Screen Shot 2022-01-18)
+![Sleep](sleep.png)
 
 
 * The overall search for sleep pills has been going up
@@ -11,5 +11,10 @@
 * Sleep walking spiked in august of 2012 
 
 
-## Spiders
- 
+## Birds vs Lizards
+
+![birds vs lizards]()
+* birds (blue) seem to much more popular than searches for lizards (red)
+* Reasons For this 
+    1. birds are better and more common house pets
+    2. Birds are more commonly sold at pet stores 
