@@ -1,0 +1,12 @@
+body {
+  background-color: #dcdcdc;
+}
+h1, h2 {
+  color: #00416a;
+}
+h2 {
+  border: 2px 10px solid #343434;
+}
+div {
+  border-top: 2px solid #343434; 
+}
