@@ -1,0 +1,21 @@
+header, h1, h2 {
+  text-align: center;
+}
+
+body, main {
+  background-color: #ffffff;
+}
+
+main {
+  border-top: 5px solid #ff8243;
+}
+
+#navlinks {
+  float: left;
+  border: 5px solid #ff8243;
+  padding-right: 8px;
+  margin-right: 10px;
+}
+
+
+
