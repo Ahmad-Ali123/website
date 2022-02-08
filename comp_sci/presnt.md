@@ -14,3 +14,5 @@ REPEAT UNTIL (index > 10)
 }
 
 DISPLAY sum 
+
+This question falls under the Algorithms and Programing section 
