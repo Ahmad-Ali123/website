@@ -9,11 +9,17 @@ index <-- 1
 sum <-- 0
 
 REPEAT UNTIL (index > 10)
+
 {
+
   if (index MOD 3 = 0)
+
  {    
+
    sum <-- sum + index
+
   ]   
+
   index <-- index + 2
 ]
 
