@@ -7,17 +7,43 @@ body, main {
 }
 
 main {
+  display: grid;
+  grid-template-columns: 50vw 50vw;
+  grid-template-rows: auto;
   border-top: 5px solid #ff8243;
-  display: block;
-
 }
 
-#navlinks {
-  float: left;
-  border: 5px solid #ff8243;
-  padding-right: 8px;
-  margin-right: 10px;
+div {
+  width: 100px;
+  height: 100px;
+  background: #add8e6;
+  transition: width 3s, transform 3s;
 }
+
+div:hover {
+  width: 200px;
+  height: 150px;
+  transform: rotate(360deg);
+}
+
+#places {
+  grid-area: 2/1;
+}
+
+#exper {
+  grid-area: 2/2;
+}
+
+#resume {
+  grid-area: 2/3;
+}
+
+#places, #exper, #resume {
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 5px 5px 5px #888888;
+}
+
 
 footer {
   text-align: center;
