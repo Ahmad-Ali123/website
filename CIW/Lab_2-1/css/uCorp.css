@@ -5,7 +5,7 @@ h1 {
   color: #bd0000;
 }
 @font-face {
-  font-family: 'oregongont';
+  font-family: 'oregonfont';
   src: url(../media/oregon_book.ttf);
 }
 nav {
@@ -40,7 +40,7 @@ p {
   color: #ffffff;
 }
 .navlinks {
-  margin: 10px;
+  margin: 10px 10px 10px 10px; 
   display: block;
   border: 2px solid #fada5e;
   padding: 2px 5px;
