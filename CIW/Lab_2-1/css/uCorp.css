@@ -23,6 +23,7 @@ main {
   font-family: arial, sans-serif;
   border-top: solid  4px #ffffff;
   padding: 10px 5px 5px 10px;
+  margin-bottom: 40px;
   background-color: #000000;
   background-image: url("https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
   background-repeat: no-repeat;
