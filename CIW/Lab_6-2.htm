@@ -12,7 +12,8 @@
 ****************************************************************/
   
   function myFunction() {
-    alert("The function has been called.");
+    alert("The function has been called and was passed." + arg1);
+    return "myFunction() return value";
   }
 
 </script>
@@ -27,7 +28,7 @@
 <!-- Add an onclick event handler to call the function -->
 
 <form name="myForm">
-<input type="button" VALUE="Call Function" onclick="myFunction();"/>
+<input type="button" VALUE="Call Function" onclick="alert(myFunction('a string of text'));"/>
 </form>
 
 </body>
