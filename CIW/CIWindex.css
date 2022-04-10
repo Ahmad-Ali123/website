@@ -3,11 +3,18 @@ body {
   background-color: #080808;
 }
 
-h1, footer {
+h1,h2,p {
+  color: #ffffff;
   text-align: center;
 }
 
-footer>a, footer>a:visited {
+footer {
+  text-align: center;
+}
+
+
+
+footer>a,footer>a:visited {
   text-decoration: none;
   color: #555;
 }
@@ -17,3 +24,10 @@ main>div {
   margin-top: 10px;
 }
 
+div>a {
+  color: #dc143c;
+}
+
+div>a:visited {
+  color:
+}
