@@ -8,11 +8,18 @@ h1, footer {
     text-align: center;
 }
 
+h1, h2, h3 {
+  color: #034159;
+}
+
 body {
   background-color: #8fbc8f;
 }
 
 main {
+  display: grid;
+  grid-template-columns: 30vw 30vw;
+  grid-template-rows: auto;
   background-color: #f0fff0;
   margin-left: 50px;
   margin-right: 50px;
@@ -23,8 +30,20 @@ div {
   padding: 20px;
 }
 
+#Pest {
+  grid-area: 2/3;
+}
+
 #op {
-  float: right;
+  grid-area: 1/3;
+}
+
+a {
+  color: #013220;
+}
+
+a:visited {
+  color: #343434;
 }
 
 footer>a, footer>a:visited {
@@ -92,8 +111,23 @@ window.onload = init;
 
         <li><a href="https://www.amazon.com/HHTHH-Natural-Decoration-Insulation-Flowerpot/dp/B08PNMSK3K/ref=sr_1_7?crid=29M7LYWGD5JMI&keywords=Coconut+Coir+Liner&qid=1650391545&s=lawn-garden&sprefix=coconut+coir+liner%2Clawngarden%2C46&sr=1-7">Plant bed liner</a></li>
 
+        <li><a href="https://www.amazon.com/Purpose-Premium-Potting-Castings-Nutrients/dp/B09HHNXJ1L/ref=sr_1_1_sspa?crid=28G1QQBQH9031&keywords=gardening+soil&qid=1650392131&sprefix=gardening+soil%2Caps%2C344&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVVhPNDNZWVlUNlE0JmVuY3J5cHRlZElkPUEwMTI2MDcwNjBRTkhDQlRNSjBFJmVuY3J5cHRlZEFkSWQ9QTA5NDk1MjUySUVLUjgyMlVWUVZYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==">Soil</a></li>
+
 
       </ul>
+
+    </div>
+
+    <div id="Pest">
+
+      <ul>
+        
+        <li><a href="https://www.homedepot.com/p/Garden-Safe-24-fl-oz-Ready-to-Use-Houseplant-and-Garden-Insect-Killer-HG-80422/100352269">Pesticide</a></li>
+
+      </ul>
+
+      <p>its up to you if you wanna use a pesticide or not but if you do we recomend this one</p>
+
 
     </div>
 
