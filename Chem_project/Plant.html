@@ -38,6 +38,10 @@ div {
   grid-area: 1/3;
 }
 
+p {
+  font-size: 120%;
+}
+
 a {
   color: #013220;
 }
@@ -52,6 +56,9 @@ footer>a, footer>a:visited {
 }
 </style>
 <script>
+
+document.write("<h4>Welcome, " + prompt("what is your name?", "") + "</h4>");
+
 function init() {
   var loc = window.location.href;
   var HTMLvalidLinkStr = 'http://validator.w3.org/check?uri=' + loc;
