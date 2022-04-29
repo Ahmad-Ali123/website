@@ -22,7 +22,10 @@
 <article>
 
 <h1>Registration Form</h1>
+
     <form>
+      <fieldset name="personal_Info">
+
     <p>
         <label for="first">First name: </label>
         <input type="text" name="firstname" id="first" />
@@ -35,21 +38,24 @@
         <label for="db">Date of Birth: </label>
         <input type="date" name="dob" id="db" />
     </p>
-
     <p>
-    <label for="cont">Your Continent: </label>
-    <input list="continents" name="continent" id="cont" />
-    <datalist id="continents">
-      <option value="North America"> </option>
-      <option value="south America"> </option>
-      <option value="Europe"> </option>
-      <option value="Asia"> </option>
-      <option value="Africa"> </option>
-      <option value="Australia"> </option>
-      <option value="Antartica"> </option>
-    </datalist>
+        <label for="cont">Your Continent: </label>
+        <input list="continents" name="continent" id="cont" />
+        <datalist id="continents">
+            <option value="North America"> </option>
+            <option value="South America"> </option>
+            <option value="Europe"> </option>
+            <option value="Asia"> </option>
+            <option value="Africa"> </option>
+            <option value="Australia"> </option>
+            <option value="Antarctica"> </option>
+        </datalist>
     </p>
-    
+
+      </fieldset>
+      <fieldset name="other-information">
+        <legend>Other information:</legend>
+	
     <p>
         <label for="tech">How many technologies do you know?: 0 </label>
         <input type="range" name="technologies" min="0" max="50" value="25" id="tech" /> 10+
@@ -58,6 +64,8 @@
         <label for="num">Age of user: </label>
         <input type="number" name="age" min="1" max="100" id="num" />
     </p>
+      </fieldset>
+	
 </form>
 
 </article> 
