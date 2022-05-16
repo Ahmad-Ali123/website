@@ -1,0 +1,16 @@
+  986  ls
+  987  cd Lab_8-2
+  988  ls
+  989  vi form.htm
+  990  cd ../
+  991  ls
+  992  cd Lab_8-1
+  993  ls
+  994  vi form.htm
+  995  cd ../..
+  996  git status
+  997  git add .
+  998  git commit -m "styled all the Lab 8 stuff"
+  999  git push
+ 1000  git status
+ 1001  history

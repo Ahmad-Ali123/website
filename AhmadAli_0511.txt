@@ -1,0 +1,16 @@
+ 1000  git status
+ 1001  history
+ 1002  history > Ahmad_0511.txt
+ 1003  vi Ahmad_0511.txt
+ 1004  cd 
+ 1005  cd projects/website
+ 1006  pwd
+ 1007  mkdir another_file
+ 1008  rmdir another_file
+ 1009  ls
+ 1010  cp min.html
+ 1011  cp min.html min1.html
+ 1012  ls
+ 1013  mv min1.html min2.html
+ 1014  ls
+ 1015  vi Ahmad_0511.txt
